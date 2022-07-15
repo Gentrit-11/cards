@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Gentrit-11/react-uploads.git/static/css/main.2d6953fe.css",
+    "main.js": "/Gentrit-11/react-uploads.git/static/js/main.04eb6177.js",
+    "static/media/card-image.png": "/Gentrit-11/react-uploads.git/static/media/card-image.3a3ec5e552cff242a1c1.png",
+    "index.html": "/Gentrit-11/react-uploads.git/index.html",
+    "main.2d6953fe.css.map": "/Gentrit-11/react-uploads.git/static/css/main.2d6953fe.css.map",
+    "main.04eb6177.js.map": "/Gentrit-11/react-uploads.git/static/js/main.04eb6177.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d6953fe.css",
+    "static/js/main.04eb6177.js"
+  ]
+}
