@@ -5,7 +5,7 @@ import "./components/style.css";
 function App() {
   return Data.map((props) => {
     return (
-      <div className="cards">
+      <div>
         <Card
           datee={props.datee}
           name={props.name}
@@ -16,7 +16,6 @@ function App() {
           img={props.img}
           buttonLink={props.buttonLink}
         />
-       
       </div>
     );
   });

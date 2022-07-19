@@ -1,6 +1,15 @@
+#root {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  padding: 10px;
+  width: calc(90% - 9.3rem);
+  margin-left: 8%;
+  border-radius: 50px;
+}
+
 .card {
   max-width: 400px;
-  margin-left: 50px;
   margin-top: 30px;
 }
 
@@ -15,10 +24,11 @@
   display: flex;
   justify-content: space-between;
   margin-top: 20px;
+  margin-left: 20px;
 }
 .container2,
 h6 {
-  margin-right: 90px;
+  margin-right: 75px;
 }
 .container2,
 h6,
@@ -30,10 +40,11 @@ img {
   margin-top: 20px;
 }
 .container2 > div {
-  width: 60px;
+  width: 90px;
   height: 20px;
   font-size: 13px;
   text-align: center;
+  color: white;
 }
 
 .containers {
@@ -58,4 +69,45 @@ img {
   border-radius: 50px;
   color: blue;
   margin-top: 120px;
+}
+@media only screen and (min-width: 350px) and (max-width: 900px) {
+  .card {
+    width: 330px;
+    height: 500px;
+  }
+
+  .containers {
+    width: 100%;
+
+    min-width: 0 !important;
+    max-width: none !important;
+    overflow-x: hidden;
+
+    padding: 10px;
+  }
+  .container2 > div {
+    width: 90px;
+    height: 20px;
+    font-size: 13px;
+
+    color: white;
+  }
+  .container2,
+  h6 {
+    margin-right: 40px;
+  }
+  .container2,
+  h6,
+  img {
+    margin-left: 10px;
+  }
+
+  .container4,
+  .button {
+    margin-top: 40px;
+  }
+  .container3,
+  h5 {
+    padding: 5px;
+  }
 }

@@ -16,7 +16,7 @@ export const Data = [
   {
     img: image,
     datee: "3.3.0(14/05/2018)",
-    bg: "green",
+    bg: "blue",
     name: "Kewin Joe",
     content:
       " Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco",
@@ -26,7 +26,7 @@ export const Data = [
   {
     img: image,
     datee: "3.3.0(14/05/2018)",
-    bg: "green",
+    bg: "red",
     name: "Kewin Joe",
     content:
       " Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco",
@@ -36,7 +36,7 @@ export const Data = [
   {
     img: image,
     datee: "3.1.0(14/05/2015)",
-    bg: "blue",
+    bg: "green",
     name: "Kewin Joe",
     content:
       "  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco",
@@ -56,7 +56,7 @@ export const Data = [
   {
     img: image,
     datee: "3.1.0(14/05/2015)",
-    bg: "blue",
+    bg: "red",
     name: "Kewin Joe",
     content:
       "  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco",
@@ -66,7 +66,7 @@ export const Data = [
   {
     img: image,
     datee: "3.1.0(14/05/2015)",
-    bg: "orange",
+    bg: "green",
     name: "Kewin Joe",
     content:
       "   tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco",
@@ -76,7 +76,7 @@ export const Data = [
   {
     img: image,
     datee: "3.1.0(14/05/2015)",
-    bg: "orange",
+    bg: "blue",
     name: "Kewin Joe",
     content:
       "  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco",
@@ -86,7 +86,7 @@ export const Data = [
   {
     img: image,
     datee: "3.1.0(14/05/2015)",
-    bg: "orange ",
+    bg: "red ",
     name: "Kewin Joe",
     content:
       "   tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco",
